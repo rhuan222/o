@@ -1,6 +1,6 @@
 # Qual seu nome?
-# rhuan
+ rhuan
 # Qual turma e escola ?
-# Oitavo ano Predro viriato parigot de souza
+ Oitavo ano Predro viriato parigot de souza
 # Qual objetivo de vida ?
-# continuar sendo boiadeiro
+continuar sendo boiadeiro
